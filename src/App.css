@@ -1,0 +1,50 @@
+body{
+  margin:0;
+  background-color: #EBF0FF;
+
+}
+.appointments-list, th, td{
+  
+  text-align: left;
+  height: 56px;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 25px;
+  
+}
+.List-body{
+  border-collapse: collapse;
+  background-color: white;
+  font-size: 8px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+} 
+
+.appointments-list{
+  border-collapse: collapse;
+  width: 100%;
+  padding: 10px 5px 10px;
+  margin-left: 10px;
+  border-radius: 9px;
+  
+}
+
+.appointments-list.img{
+    height: 100%;
+    width: 100%;
+}
+
+.Container{
+  
+    margin-left: 200px; /* Same as the width of the sidenav */
+    margin-top: 16px;
+    
+    
+
+}
+.Container h2{
+  
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 46px;
+  letter-spacing: 0.2px;
+}
